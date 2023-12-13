@@ -2,7 +2,7 @@
 document.querySelector(".js-go").addEventListener('click',function(){
     var input = document.querySelector("input").value;
     //GIPHY URL
-    var url = "http://api.giphy.com/v1/gifs/search?q="+input+"&api_key=dc6zaTOxFJmzC";
+    var url = "http://api.giphy.com/v1/gifs/search?q="+input+"&api_key=your_api_key";
 
     // AJAX Request
     var GiphyAJAXCall = new XMLHttpRequest();
