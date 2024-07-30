@@ -20,7 +20,7 @@ document.querySelector(".js-userinput").addEventListener('keyup',function(e){
     var input = document.querySelector("input").value;
     if(e.which===13){
         //GIPHY URL
-        var url = "http://api.giphy.com/v1/gifs/search?q="+input+"&api_key=dc6zaTOxFJmzC";
+        var url = "http://api.giphy.com/v1/gifs/search?q="+input+"&api_key=your_key";
 
         // AJAX Request
         var GiphyAJAXCall = new XMLHttpRequest();
