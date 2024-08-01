@@ -1,3 +1,2 @@
 # Giphy Search Engine
-Link for working sample.
-[See the video](https://www.linkedin.com/posts/piyushgupta092_html-css-learning-activity-6813854736203206656-4Mxl?utm_source=share&utm_medium=member_desktop)
+![Screenshot (34)](https://github.com/user-attachments/assets/1bc82c7b-6524-484c-9503-62ba8ef6dc87)
